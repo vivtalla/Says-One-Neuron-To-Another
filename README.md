@@ -1,14 +1,12 @@
-# Says-One-Neuron-To-Another
+# EECS 738 Project 3: Says-One-Neuron-To-Another
 
-EECS 738 Project 3: Says-One-Neuron-To-Another
+# By Vivek Tallavajhala and Bisher Anadani
 
-By Vivek Tallavajhala and Bisher Anadani
-
+#Motivation
 This goal of this project is to implement a neural network from scratch.
 The formal requirements of the project are illustrated below:
 
-Says One Neuron To Another
-Neural network architectures
+#Requirements
 1. Set up a new git repository in your GitHub account
 2. Pick two datasets from
 https://en.wikipedia.org/wiki/List_of_datasets_for_machi
