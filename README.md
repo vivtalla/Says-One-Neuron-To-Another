@@ -1,6 +1,7 @@
 # Says-One-Neuron-To-Another
 
 EECS 738 Project 3: Says-One-Neuron-To-Another
+
 By Vivek Tallavajhala and Bisher Anadani
 
 This goal of this project is to implement a neural network from scratch.
